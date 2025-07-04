@@ -1,1 +1,1 @@
-# Visual-Analytics
+Designed interactive dashboards in Tableau using two datasets: sales/shipments across 6 European countries and happiness indexes of 140 countries (2015–2022). Performed data cleaning, transformations, and built dashboards for sales performance, customer analysis, dispatch efficiency, and global happiness trends, using charts, maps, and advanced Tableau features.
